@@ -170,7 +170,7 @@ double pid_ctrl_steer(double e) {
     double y;
 
     esum = esum + e;
-    y = 2 * e + 0.00005 * esum /*+ Kd * (e � ealt) / Ta*/; /*2 and 0.00005*/
+    y = 2 * e + 0.00006 * esum /*+ Kd * (e � ealt) / Ta*/; /*2 and 0.00005*/
     /*ealt = e;*/
     /*Log("y: %.2f \n", y);*/
 
