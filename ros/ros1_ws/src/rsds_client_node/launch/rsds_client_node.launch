@@ -1,0 +1,3 @@
+<launch>
+    <node name="rsds_client_node" pkg="rsds_client_node" type="rsds_client_node"/>
+</launch>
