@@ -6,7 +6,7 @@
 **  Copyright (C)   IPG Automotive GmbH
 **                  Bannwaldallee 60             Phone  +49.721.98520.0
 **                  76185 Karlsruhe              Fax    +49.721.98520.99
-**                  Germany                      WWW    www.avcipg-automotive.com
+**                  Germany                      WWW    www.ipg-automotive.com
 ******************************************************************************
 **
 ** Raw Signal Data Stream example client for IPGMovie 8.0.
