@@ -10,7 +10,7 @@
 ******************************************************************************
 **
 ** Raw Signal Data Stream example client for IPGMovie 8.0.
-**
+** change test
 ** This example looks quite complex at first but is actually quite simple.
 ** - establish the RSDS connection: RSDS_Connect
 ** - get the RSDS data: RSDS_RecvHdr and RSDS_GetData
